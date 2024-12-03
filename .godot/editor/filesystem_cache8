@@ -1,0 +1,81 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1733184868
+icon.svg::CompressedTexture2D::618653120609768402::1732179726::1732179733::1::::<><>::
+::res://assets/::1732183655
+::res://assets/final/::1733166675
+::res://assets/final/isometric/::1733166700
+::res://assets/final/isometric/Obj/::1733166847
+MountainRocks-0.obj::Mesh::1491421945876807683::1614886674::1733166845::1::::<><>::uid://bsc1mtsfodpt0::::res://assets/final/isometric/Obj/MountainRocks-0.png
+MountainRocks-0.png::CompressedTexture2D::3655549722020744307::1614886674::1733166846::1::::<><>::
+MountainRocks-1.obj::Mesh::9091903367716012959::1614886674::1733166845::1::::<><>::uid://6h6fsxnbx5wt::::res://assets/final/isometric/Obj/MountainRocks-1.png
+MountainRocks-1.png::CompressedTexture2D::2192196934346447647::1614886674::1733166846::1::::<><>::
+MountainRocks-2.obj::Mesh::4265827566540300006::1614886674::1733166844::1::::<><>::uid://xu5g6b4l2w27::::res://assets/final/isometric/Obj/MountainRocks-2.png
+MountainRocks-2.png::CompressedTexture2D::1657464814404437110::1614886674::1733166846::1::::<><>::
+MountainRocks-3.obj::Mesh::5116592982469556545::1614886674::1733166844::1::::<><>::uid://be4hccpml0ipu::::res://assets/final/isometric/Obj/MountainRocks-3.png
+MountainRocks-3.png::CompressedTexture2D::2727471732429822826::1614886674::1733166846::1::::<><>::
+MountainRocks-4.obj::Mesh::5916429625714755644::1614886674::1733166844::1::::<><>::uid://bwr7w6e0n5coo::::res://assets/final/isometric/Obj/MountainRocks-4.png
+MountainRocks-4.png::CompressedTexture2D::3967653532340776274::1614886674::1733166846::1::::<><>::
+MountainRocks-5.obj::Mesh::5362557327732173100::1614886675::1733166844::1::::<><>::uid://di2qe0ntbr33::::res://assets/final/isometric/Obj/MountainRocks-5.png
+MountainRocks-5.png::CompressedTexture2D::228749733783370032::1614886675::1733166846::1::::<><>::
+MountainRocks-6.obj::Mesh::1024516026345165110::1614886675::1733166844::1::::<><>::uid://6wjv8ginsv0b::::res://assets/final/isometric/Obj/MountainRocks-6.png
+MountainRocks-6.png::CompressedTexture2D::2221856160896189575::1614886675::1733166846::1::::<><>::
+MountainRocks-7.obj::Mesh::8710441992833115575::1614886675::1733166843::1::::<><>::uid://b43k0cut5jh15::::res://assets/final/isometric/Obj/MountainRocks-7.png
+MountainRocks-7.png::CompressedTexture2D::4480351677931515446::1614886675::1733166846::1::::<><>::
+MountainRocks-8.obj::Mesh::187400820511514119::1614886675::1733166843::1::::<><>::uid://cjunpxhku207b::::res://assets/final/isometric/Obj/MountainRocks-8.png
+MountainRocks-8.png::CompressedTexture2D::5446645842357082941::1614886675::1733166847::1::::<><>::
+MountainRocks-9.obj::Mesh::7435860841683762324::1614886675::1733166843::1::::<><>::uid://copbhhhl2ygqn::::res://assets/final/isometric/Obj/MountainRocks-9.png
+MountainRocks-9.png::CompressedTexture2D::5786524441193556309::1614886675::1733166847::1::::<><>::
+::res://assets/final/player/::1732324318
+AttackSprite01.png::CompressedTexture2D::5356873577734298208::1732324286::1732324318::1::::<><>::
+ExamplePlayerSprite.png::CompressedTexture2D::8752514128136443912::1732182684::1732182693::1::::<><>::
+PlayerSprite02.png::CompressedTexture2D::1442694505448106483::1732324279::1732324318::1::::<><>::
+Shadow.png::CompressedTexture2D::3825376412691160902::1732324292::1732324318::1::::<><>::
+::res://assets/final/sprites/::1732264879
+BROWNROCK_full_tileset_v2.png::CompressedTexture2D::3162569114984807656::1717257390::1732264879::1::::<><>::
+demonstration.png::CompressedTexture2D::1432452520220403653::1655490404::1732261838::1::::<><>::
+Grass-01.png::CompressedTexture2D::6409547027536527808::1732259707::1732259719::1::::<><>::
+Props.png::CompressedTexture2D::3516794323538400815::1732264076::1732264079::1::::<><>::
+sample map demo.png::CompressedTexture2D::4515710830275401316::1713745636::1732264003::1::::<><>::
+tile guide.png::CompressedTexture2D::1800407813032019724::1648981232::1732261838::1::::<><>::
+Tileset-Animated Terrains-8 frames- transparency.png::CompressedTexture2D::1687342850459158255::1655487246::1732261838::1::::<><>::
+Tileset-Animated Terrains-8 frames-.png::CompressedTexture2D::1434525443199098684::1655486328::1732261838::1::::<><>::
+Tileset-Terrain2.png::CompressedTexture2D::7672549592217715256::1655489184::1732261838::1::::<><>::
+Tilesets and props Demo.png::CompressedTexture2D::2561698598484279112::1713744576::1732263944::1::::<><>::
+wall-8 - 2 tiles tall-transparency.png::CompressedTexture2D::5500517607287007038::1655484156::1732261838::1::::<><>::
+wall-8 - 2 tiles tall.png::CompressedTexture2D::8923474848780375218::1649819862::1732261838::1::::<><>::
+::res://audio/::1732324309
+::res://audio/player/::1733084081
+SwordSwoosh.wav::AudioStreamWAV::1776369527523427833::1732324312::1732324318::1::::<><>::
+Sword_Slash.mp3::AudioStreamMP3::6223444950769326410::1728456922::1733084081::1::::<><>::
+::res://character/::1732183575
+::res://character/player/::1733185896
+player.tscn::PackedScene::2403717654196120193::1733186225::0::1::::<><>::res://character/player/scripts/player.gd<>uid://us375xo8tpeh::::res://assets/final/player/PlayerSprite02.png<>res://character/player/scripts/player_state_machine.gd<>uid://burbnjta7q81o::::res://assets/final/player/Shadow.png<>uid://cik56prelu8vc::::res://assets/final/player/AttackSprite01.png<>res://character/player/scripts/state_idle.gd<>res://character/player/scripts/state_walk.gd<>res://character/player/scripts/PlayerCamera.gd<>res://character/player/scripts/state_attack.gd<>uid://0kqst4crw5fx::::res://audio/player/SwordSwoosh.wav<>uid://brewa0wfjf2ph::::res://general/HurtBox/hurt-box.tscn<>res://character/player/scripts/playerInteractionsHost.gd
+::res://character/player/scripts/::1733185612
+player.gd::GDScript::-1::1733185612::0::1::::Player<>CharacterBody2D<>::
+player_state_machine.gd::GDScript::-1::1732257647::0::1::::PlayerStateMachine<>Node<>::
+playerInteractionsHost.gd::GDScript::-1::1733171310::0::1::::PlayerInteractionsHost<>Node2D<>::
+PlayerCamera.gd::GDScript::-1::1733186225::0::1::::PlayerCamera<>Camera2D<>::
+state.gd::GDScript::-1::1732256893::0::1::::State<>Node<>::
+state_attack.gd::GDScript::-1::1733171189::0::1::::State_Attack<>State<>::
+state_idle.gd::GDScript::-1::1733081881::0::1::::State_Idle<>State<>::
+state_walk.gd::GDScript::-1::1733081918::0::1::::State_Walk<>State<>::
+::res://general/::1733168570
+::res://general/HitBox/::1733185899
+hit-box.tscn::PackedScene::6364280819416075805::1733185899::0::1::::<><>::res://general/HitBox/hit_box.gd
+hit_box.gd::GDScript::-1::1733168538::0::1::::HitBox<>Area2D<>::
+::res://general/HurtBox/::1733185899
+hurt-box.tscn::PackedScene::3589225657705636041::1733185899::0::1::::<><>::res://general/HurtBox/hurt_box.gd
+hurt_box.gd::GDScript::-1::1733168957::0::1::::HurtBox<>Area2D<>::
+::res://props/::1733169057
+::res://props/Plants/::1733185899
+plant.gd::GDScript::-1::1733169714::0::1::::Plant<>Node2D<>::
+plant.tscn::PackedScene::2710978891764514699::1733185899::0::1::::<><>::res://props/Plants/plant.gd<>uid://b0cjr011ecm4s::::res://props/Sprites/Props.png<>uid://cww51mg6qku58::::res://general/HitBox/hit-box.tscn
+::res://props/Sprites/::1733169059
+Props.png::CompressedTexture2D::4145848696018739884::1733169031::1733169059::1::::<><>::
+::res://scenery/::1732259786
+::res://scenery/tileMaps/::1733185899
+Grass-01.tscn::PackedScene::6286951328815207931::1733185897::0::1::::<><>::uid://cxk3kkm6oc31m::::res://assets/final/sprites/Grass-01.png<>uid://bqdtdashelq8v::::res://assets/final/sprites/Props.png<>uid://blb8b0i8q4lqu::::res://assets/final/sprites/BROWNROCK_full_tileset_v2.png
+Terrain01.tscn::PackedScene::6737670926969315674::1733185899::0::1::::<><>::uid://uo5ooxc1xywy::::res://assets/final/sprites/Tileset-Animated Terrains-8 frames-.png<>uid://bcq52ix8lje4g::::res://assets/final/sprites/Tilesets and props Demo.png<>uid://b5lpdk35q0gyu::::res://assets/final/sprites/sample map demo.png<>uid://ybmj4q6xslv0::::res://assets/final/sprites/Tileset-Animated Terrains-8 frames- transparency.png
+Tilesets and props Demo.png::CompressedTexture2D::4798486005605381493::1732263929::1732263930::1::::<><>::
+::res://scenery/worlds/::1733185896
+testLevel.tscn::PackedScene::5660297430549714422::1733185896::0::1::::<><>::uid://baim44vufq5wn::::res://character/player/player.tscn<>uid://cvtpf1l2ltlsd::::res://scenery/tileMaps/Grass-01.tscn<>uid://bevhoq1b18au2::::res://props/Plants/plant.tscn<>uid://c281pq5a0p28e::::res://scenery/tileMaps/Terrain01.tscn

@@ -1,0 +1,17 @@
+res://scenery/tileMaps/Grass-01.tscn
+res://scenery/worlds/testLevel.tscn
+res://character/player/player.tscn
+res://scenery/tileMaps/Terrain01.tscn
+res://general/HitBox/hit-box.tscn
+res://general/HitBox/hit_box.gd
+res://general/HurtBox/hurt_box.tscn
+res://general/HurtBox/hurt_box.gd
+res://props/Plants/plant.tscn
+res://props/Plants/plant.gd
+res://general/HurtBox/hurt-box.tscn
+res://character/player/scripts/state_attack.gd
+res://character/player/scripts/playerInteractionsHost.gd
+res://character/player/scripts/player.gd
+res://character/player/scripts/PlayerCamera.gd
+res://00_Globals/globalLevelManager.gd
+res://scenery/tileMaps/LevelTileMap.gd

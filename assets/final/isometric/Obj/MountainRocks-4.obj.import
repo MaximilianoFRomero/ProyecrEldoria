@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqj7y4whwyjts"
+path="res://.godot/imported/MountainRocks-4.obj-b7fb9994d2b9a51e05aa4a73049ce69c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/MountainRocks-4.obj-b7fb9994d2b9a51e05aa4a73049ce69c.mesh"]
+
+source_file="res://assets/final/isometric/Obj/MountainRocks-4.obj"
+dest_files=["res://.godot/imported/MountainRocks-4.obj-b7fb9994d2b9a51e05aa4a73049ce69c.mesh", "res://.godot/imported/MountainRocks-4.obj-b7fb9994d2b9a51e05aa4a73049ce69c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
