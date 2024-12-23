@@ -1,3 +1,6 @@
+res://gui
+res://scenery/worlds
+res://gui/playerGui
 res://00_Globals
 res://character/player/scripts
 res://character/player

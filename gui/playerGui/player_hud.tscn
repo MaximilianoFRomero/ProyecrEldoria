@@ -1,0 +1,62 @@
+[gd_scene load_steps=3 format=3 uid="uid://c71lb4yjh6pg5"]
+
+[ext_resource type="Script" path="res://gui/playerGui/player_hud.gd" id="1_o0vr3"]
+[ext_resource type="PackedScene" uid="uid://sunqu2vnhbj6" path="res://gui/playerGui/heart_gui.tscn" id="2_5ckjx"]
+
+[node name="PlayerHud" type="CanvasLayer"]
+script = ExtResource("1_o0vr3")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HFlowContainer" type="HFlowContainer" parent="Control"]
+layout_mode = 0
+offset_left = 1114.0
+offset_top = 16.0
+offset_right = 1279.0
+offset_bottom = 94.0
+scale = Vector2(1.46643, 1.63981)
+theme_override_constants/h_separation = 2
+theme_override_constants/v_separation = 2
+alignment = 2
+
+[node name="Heart" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart2" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart3" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart4" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart5" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart6" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart7" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart8" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart9" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart10" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart11" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
+
+[node name="Heart12" parent="Control/HFlowContainer" instance=ExtResource("2_5ckjx")]
+layout_mode = 2
