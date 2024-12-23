@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=3 uid="uid://m1mne1fbo017"]
+
+[ext_resource type="Script" path="res://gui/mini_map.gd" id="1_uq42c"]
+[ext_resource type="Texture2D" uid="uid://ddlordngk1y30" path="res://gui/assets/BlackSquareBorder.png" id="2_13mgl"]
+
+[node name="MiniMap" type="CanvasLayer"]
+script = ExtResource("1_uq42c")
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="."]
+offset_left = 1502.0
+offset_top = 22.0
+offset_right = 1902.0
+offset_bottom = 292.0
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+handle_input_locally = false
+size = Vector2i(400, 270)
+render_target_update_mode = 4
+
+[node name="Camera2D" type="Camera2D" parent="SubViewportContainer/SubViewport"]
+zoom = Vector2(0.3, 0.3)
+position_smoothing_enabled = true
+
+[node name="Sprite2D2" type="Sprite2D" parent="SubViewportContainer"]
+z_index = -1
+position = Vector2(200, 126.5)
+scale = Vector2(2.6625, 2.75839)
+texture = ExtResource("2_13mgl")
+
+[node name="ZoomIn" type="Button" parent="SubViewportContainer"]
+layout_mode = 2
+toggle_mode = true
+text = "+"
+
+[node name="ZoomOut" type="Button" parent="SubViewportContainer"]
+layout_mode = 2
+
+[connection signal="pressed" from="SubViewportContainer/ZoomIn" to="." method="_on_zoom_in_pressed"]

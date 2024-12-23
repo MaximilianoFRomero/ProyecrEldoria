@@ -1,9 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://cmv5jic7kaulq"]
+[gd_scene load_steps=6 format=3 uid="uid://cmv5jic7kaulq"]
 
 [ext_resource type="PackedScene" uid="uid://baim44vufq5wn" path="res://character/player/player.tscn" id="1_rm86g"]
 [ext_resource type="PackedScene" uid="uid://cvtpf1l2ltlsd" path="res://scenery/tileMaps/Grass-01.tscn" id="2_8r8ml"]
 [ext_resource type="PackedScene" uid="uid://bevhoq1b18au2" path="res://props/Plants/plant.tscn" id="2_bpdgq"]
 [ext_resource type="PackedScene" uid="uid://c281pq5a0p28e" path="res://scenery/tileMaps/Terrain01.tscn" id="3_l13jb"]
+[ext_resource type="PackedScene" uid="uid://ckflmp25ei4vh" path="res://character/enemies/slime/Slime.tscn" id="5_wrw15"]
 
 [node name="TestLevel" type="Node2D"]
 y_sort_enabled = true
@@ -34,3 +35,12 @@ position = Vector2(167, 36)
 
 [node name="Plant4" parent="Scenery/Plants" instance=ExtResource("2_bpdgq")]
 position = Vector2(325, 35)
+
+[node name="Slime" parent="." instance=ExtResource("5_wrw15")]
+position = Vector2(2, -65)
+
+[node name="Slime2" parent="." instance=ExtResource("5_wrw15")]
+position = Vector2(-2, 176)
+
+[node name="Slime3" parent="." instance=ExtResource("5_wrw15")]
+position = Vector2(211, 69)

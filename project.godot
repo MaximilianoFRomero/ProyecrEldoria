@@ -11,18 +11,21 @@ config_version=5
 [application]
 
 config/name="CronicasDeEldoria"
-run/main_scene="res://scenery/worlds/testLevel.tscn"
+run/main_scene="res://scenery/worlds/world01.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
 
 LevelManager="*res://00_Globals/globalLevelManager.gd"
+PlayerManager="*res://00_Globals/global_player_manager.gd"
+PlayerHud="*res://gui/playerGui/player_hud.tscn"
 
 [display]
 
 window/size/viewport_width=1920
 window/size/viewport_height=1080
+window/size/mode=4
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 
